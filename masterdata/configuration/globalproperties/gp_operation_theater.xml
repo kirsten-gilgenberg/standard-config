@@ -1,0 +1,9 @@
+<config>
+  <globalProperties>
+    <globalProperty>
+      <property>bahmnicore.order.surgerySelectionConceptUuid</property>
+      <value>d6148ffc-a5fa-4666-9c3c-9196065696a6</value>
+      <description>UUID of the concept used to identify surgery selection observations in operative report forms. Activates Surgery/General Order creation on form submission. Leave blank to disable the feature.</description>
+    </globalProperty>
+  </globalProperties>
+</config>
