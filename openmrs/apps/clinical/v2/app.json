@@ -18,11 +18,17 @@
       "icon": "fa fa-dashboard",
       "default": true,
       "url": "general.json",
-      "printOptions": [
+      "printOptions": [  
         {
           "translationKey": "CLINICAL_PRINT_MEDICATION_PRESCRIPTION_KEY",
           "templateId": "PRESCRIPTION_V1",
-          "privileges": ["app:clinical:printmedications"]
+          "privileges": ["app:clinical"]
+       },
+     {
+          "translationKey": "SELECT_ENCOUNTER_TO_PRINT_PRESCRIPTION_KEY",
+          "templateId": "PRESCRIPTION_ENCOUNTER_V1",
+          "privileges": ["app:clinical"],
+          "category": "PRESCRIPTION"
         }
       ]
     },

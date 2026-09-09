@@ -82,6 +82,7 @@
   "DIAGNOSIS_BOARD_LABEL_KEY":"Diagnoses",
 
   "CLINICAL_PRINT_MEDICATION_PRESCRIPTION_KEY": "Print latest medications",
+  "SELECT_ENCOUNTER_TO_PRINT_PRESCRIPTION_KEY": "Select Encounter to print Prescription",
 
   "CLINICAL_ORDER_RADIOLOGY_NEED_PRINT": "Need Print for this order.",
   "CLINICAL_ORDER_RADIOLOGY_NEED_PRINT_BUTTON": "Needs Print",
